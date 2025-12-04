@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Raycraft/Raycraft.vcxproj" Id="afb37c9d-0cbd-49f5-996f-e807649654a8" />
+</Solution>
